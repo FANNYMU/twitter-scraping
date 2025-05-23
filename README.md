@@ -1,6 +1,6 @@
-# Aplikasi Analisis Tweet Polri
+# Aplikasi Analisis Tweet
 
-Aplikasi web untuk menganalisis dan menampilkan data tweet yang berkaitan dengan Polri. Aplikasi ini terdiri dari beberapa komponen utama yang menghandle pengambilan data, pembersihan, analisis, dan visualisasi.
+Aplikasi web untuk menganalisis dan menampilkan data tweet. Aplikasi ini terdiri dari beberapa komponen utama yang menghandle pengambilan data, pembersihan, analisis, dan visualisasi.
 
 ## Fitur
 
